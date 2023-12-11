@@ -53,7 +53,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Usage
 
-This is my personal portfolio website.
+This online manifestation represents the essence of my professional journey—a meticulously crafted personal portfolio, showcasing my achievements and aspirations.
 
 Click on
 
